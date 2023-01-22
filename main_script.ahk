@@ -8,6 +8,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 :*:rrunserver::python manage.py runserver
 
 ; Common Symbols
+; slightly different syntax allows for hotstringing directly inside a word
 
 :*?:emdash::—
 :*?:endash::–
