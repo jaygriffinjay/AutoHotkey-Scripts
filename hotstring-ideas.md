@@ -8,7 +8,7 @@ This functionality has other names: Hotstrings, Text Replacement, Text Expansion
 
 I actually prefer to call it text expansion for the simple use cases I have here. I think I would call them hotstrings like the AutoHotkey community if I were using it for more advanced functionality like typing a short string in order to run commands or do multiple actions. Here I am just expanding my text. 
 
-### Text Expansions I currently use
+### Text Expansions I currently use – NOTE: This document does not have correctly formatted AHK Code
 
 zem: email
 
