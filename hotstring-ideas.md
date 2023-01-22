@@ -54,11 +54,11 @@ january: January
 
 february: February
 
-march: March ; Commented out because it matches the common word "march"
+march: March ; Commented out entirely because it matches the common word "march"
 
 april: April
 
-may: May  ; Commented out because it matches the common word "may"
+may: May  ; Commented out entirely because it matches the common word "may"
 
 june: June
 
@@ -94,9 +94,9 @@ hadnt: hadn't
 
 havent: haven't
 
-hed: he'd (should be standalone instead of within a word since it is often part of other words)
+hed: he'd (should expand standalone instead of within a word since it is often part of other words)
 
-hes: he's (should be standalone instead of within a word since it is often part of other words)
+hes: he's (should expand standalone instead of within a word since it is often part of other words)
 
 isnt: isn't
 
