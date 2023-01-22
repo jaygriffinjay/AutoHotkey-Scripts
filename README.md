@@ -1,2 +1,2 @@
 # AutoHotkey-scripts
-AutoHotkey scriptsand Ideas
+AutoHotkey Scripts and Ideas
