@@ -102,7 +102,8 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 :*:wont::won't 
 :*:wouldve::would've 
 :*:wouldnt::wouldn't 
-:*:yall::y'all 
+:*:yall::y'all
+:*:yalldve::y’all’d’ve
 :*:youd::you'd 
 :*:youll::you'll 
 :*:youre::you're 
