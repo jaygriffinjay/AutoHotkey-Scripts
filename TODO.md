@@ -1,4 +1,4 @@
-## ✔ This Is A Repository Todo List
+## ✔ Repo Todo List
 
 * I would like to add gifs to demo some functions because AutoHotkey runs off of hotkeys - i.e. something happens when you press a button. 
 
