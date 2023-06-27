@@ -4,7 +4,7 @@ The goal of this document is to brainstorm better Autohotkey hotstrings.
 
 Hotstrings using the AutoHotkey `:*:` syntax allows you to immediately replace what you typed with the longer, more complicated value you want printed.
 
-This functionality has other names: Hotstrings, Text Replacement, Text Expansion, Aliasing
+This functionality has other names: Hotstrings, Text Replacement, Text Expansion
 
 I actually prefer to call it text expansion for the simple use cases I have here. I think I would call them hotstrings like the AutoHotkey community if I were using it for more advanced functionality like typing a short string in order to run commands or do multiple actions. Here I am just expanding my text. 
 
