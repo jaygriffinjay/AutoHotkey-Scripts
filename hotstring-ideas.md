@@ -2,7 +2,7 @@
 
 The goal of this document is to brainstorm better Autohotkey hotstrings. 
 
-Hotstrings using the AutoHotkey :*: syntax allows you to immediately replace what you typed with the longer, more complicated value you want printed.
+Hotstrings using the AutoHotkey ':*:' syntax allows you to immediately replace what you typed with the longer, more complicated value you want printed.
 
 This functionality has other names: Hotstrings, Text Replacement, Text Expansion, Aliasing
 
